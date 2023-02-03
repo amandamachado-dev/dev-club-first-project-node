@@ -1,0 +1,20 @@
+>>> MIDDLEWARE <<<
+Middleware é um software intermediário que fornece serviços adicionais para aplicações,
+permitindo a comunicação entre aplicativos, gerenciamento de dados e outras tarefas.
+É colocado entre o sistema operacional e as aplicações, permitindo que as aplicações
+se comuniquem de forma eficiente e integrada, independentemente do hardware ou
+do sistema operacional subjacente.
+Alguns exemplos de middleware incluem bibliotecas de sistemas de mensagens,
+bibliotecas de gerenciamento de banco de dados e sistemas de integração de aplicativos.
+
+
+Um exemplo de uso de middleware é em uma rede de comércio eletrônico.
+Neste caso, o middleware pode fornecer uma camada de integração entre o
+aplicativo de comércio eletrônico, o sistema de gerenciamento de banco de dados
+e o gateway de pagamento. Isso permite que o aplicativo de comércio eletrônico comunique-se
+com esses outros sistemas, acessando informações do banco de dados e 
+processando pagamentos de forma segura e eficiente.
+Além disso, o middleware pode fornecer funcionalidades adicionais,
+como o gerenciamento de sessão, a autenticação de usuários 
+e a proteção contra ameaças de segurança.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
